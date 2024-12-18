@@ -41,6 +41,6 @@
     "promise-polyfill": "^8.3.0",
     "typescript": "^5.2.2",
     "underscore": "^1.13.7",
-    "whatwg-fetch": "^3.6.19"
+    "whatwg-fetch": "^3.6.20"
   }
 }
